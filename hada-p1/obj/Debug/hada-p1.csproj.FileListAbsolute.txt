@@ -1,0 +1,7 @@
+C:\VisualStudioProjects\hada-p1\hada-p1\bin\Debug\hada-p1.exe.config
+C:\VisualStudioProjects\hada-p1\hada-p1\bin\Debug\hada-p1.exe
+C:\VisualStudioProjects\hada-p1\hada-p1\bin\Debug\hada-p1.pdb
+C:\VisualStudioProjects\hada-p1\hada-p1\obj\Debug\hada-p1.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\hada-p1\hada-p1\obj\Debug\hada-p1.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\hada-p1\hada-p1\obj\Debug\hada-p1.exe
+C:\VisualStudioProjects\hada-p1\hada-p1\obj\Debug\hada-p1.pdb
